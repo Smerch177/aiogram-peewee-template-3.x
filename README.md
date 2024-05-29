@@ -46,9 +46,9 @@
 
 ### Simple use template
 
-<a href="https://github.com/netbriler/aiogram-peewee-template/generate">Click here to create repository from this template</a> or: 
+<a href="https://github.com/Smerch177/aiogram-peewee-template-3.x/generate">Click here to create repository from this template</a> or: 
 ```bash
-$ git clone https://github.com/netbriler/aiogram-peewee-template <your project name>
+$ git clone https://github.com/Smerch177/aiogram-peewee-template-3.x <your project name>
 $ cd <your project name>
 $ pip install -r requirements.txt
 
